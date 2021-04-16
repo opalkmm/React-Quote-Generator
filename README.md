@@ -1,4 +1,4 @@
-# quoteGenerator-react
+# React Quote Generator
 
 One of those days when you want some motivation/ inspiration to get through a day.
 You can simply click "new quote" button to generate new ones. 
